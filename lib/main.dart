@@ -112,7 +112,6 @@ class _MyAppState extends State<MyApp> {
         ),
         onPressed: () {
           x = random.nextInt(6);
-          print(x);
           setState(() {});
         },
       ),
