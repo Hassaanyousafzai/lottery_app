@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
         home: Scaffold(
-      backgroundColor: Color.fromARGB(255, 175, 219, 255),
+      backgroundColor: Color.fromARGB(255, 199, 245, 255),
       body: SafeArea(
           child: Column(
         children: [
